@@ -1,0 +1,7 @@
+/*.win10
+/*.uvoptx
+/DebugConfig/
+/*.lst
+*.uvguix.*
+/keilkill.bat
+/!*.uvprojx
